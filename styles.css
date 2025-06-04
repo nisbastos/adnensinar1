@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Bobby Jones';
-    src: url('/Bobby\ Jones\ Soft.otf') format('otf');
+    src: url('/Bobby Jones Soft.otf') format('opentype'); /* Corrigindo o formato */
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Bobby Jones', sans-serif;
     margin: 0;
     padding: 0;
     background: url('homepage1.jpg') no-repeat center center fixed;
