@@ -175,14 +175,14 @@ footer a:hover {
 }
 
 .coluna-esquerda {
-    flex: 1 1 50%;
+    flex: 50%;
     display: flex;
     flex-direction: column;
 }
 
 /* Coluna direita = carrossel */
 .coluna-direita {
-    flex: 1 1 50%;
+    flex: 50%;
     display: flex;
     justify-content: flex-end;
 }
