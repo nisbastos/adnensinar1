@@ -173,6 +173,20 @@ footer a:hover {
     flex-wrap: wrap;
     gap: 40px;
 }
+
+.coluna-esquerda {
+    flex: 1 1 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Coluna direita = carrossel */
+.coluna-direita {
+    flex: 1 1 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .conteudo-texto {
     flex: 1 1 50%;
     padding-right: 40px;
