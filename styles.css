@@ -4,7 +4,12 @@
     font-weight: normal;
     font-style: normal;
 }
-
+@font-face {
+    font-family: Helvetica;
+    src: url('Helvetica-Light.woff2') format('woff2'); /* Corrigindo o formato */
+    font-weight: normal;
+    font-style: normal;
+}
 body {
     font-family: 'Bobby Jones';
     margin: 0;
@@ -153,7 +158,7 @@ footer {
 
 footer a {
     color: #ffffff;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     text-decoration: none;
     font-weight: lighter; /* Mantém o texto sem negrito */
     letter-spacing: 2px;
@@ -187,7 +192,7 @@ footer a:hover {
     color: #565656;
     position: relative;
     z-index: 2;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     font-size: 30px; /* Aumenta um pouco o tamanho */
     font-weight: 300; /* Torna a fonte mais leve */
     margin-top: 20px; /* Adiciona espaçamento acima */
@@ -315,7 +320,7 @@ footer a:hover {
 .servico p {
     font-size: 18px;
     font-weight: lighter;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     line-height: 1.6;
     color: #dddddd;
 }
@@ -455,7 +460,7 @@ footer i {
 .info-transporte {
     padding: 1.5rem 2rem;
     border-radius: 12px;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     font-weight: 300;
     font-size: 18px;
     margin-top: 1rem;
@@ -518,7 +523,7 @@ footer i {
 .info-transporte ul {
     list-style: none;
     padding: 0;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     font-weight: lighter;
     text-align: left;
     font-size: 18px;
@@ -565,7 +570,7 @@ footer i {
 }
 
 .subtitulo-avaliacoes {
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     font-size: 18px;
     color: #777;
     margin-bottom: 40px;
@@ -589,7 +594,7 @@ footer i {
     font-size: 15px;
     padding: 10px;
     width: 100%;
-    font-family: 'Lato';
+    font-family: 'Helvetica';
     font-weight: bold; /* Destaca as letras */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para destacar */
     padding-bottom: 10px;
