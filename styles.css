@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Bobby Jones', sans-serif;
+    font-family: 'Bobby Jones';
     margin: 0;
     padding: 0;
     background: url('homepage1.jpg') no-repeat center center fixed;
@@ -14,7 +14,7 @@ body {
     position: relative;
     width: 100%;
     overflow-x: hidden;
-    font-family: 'Bobby Jones', sans-serif;
+    font-family: 'Bobby Jones';
 
 }
 .background-overlay {
@@ -83,7 +83,7 @@ nav a:hover {
 }
 
 .inscricao button {
-    font-family: 'Bobby Jones', Arial, sans-serif;
+    font-family: 'Bobby Jones', Arial;
     padding: 10px 20px;
     background-color: #ffffff;
     color: #565656;
@@ -153,7 +153,7 @@ footer {
 
 footer a {
     color: #ffffff;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     text-decoration: none;
     font-weight: lighter; /* Mantém o texto sem negrito */
     letter-spacing: 2px;
@@ -180,7 +180,7 @@ footer a:hover {
     color: #565656;
     position: relative;
     z-index: 2;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     font-size: 30px; /* Aumenta um pouco o tamanho */
     font-weight: 300; /* Torna a fonte mais leve */
     margin-top: 20px; /* Adiciona espaçamento acima */
@@ -306,7 +306,7 @@ footer a:hover {
 .servico p {
     font-size: 18px;
     font-weight: lighter;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     line-height: 1.6;
     color: #dddddd;
 }
@@ -318,7 +318,7 @@ footer a:hover {
 }
 
 .botao-orcamento button {
-    font-family: 'Bobby Jones', Arial, sans-serif;
+    font-family: 'Bobby Jones', Arial;
     padding: 10px 20px;
     background-color: #ffffff;
     color: #565656;
@@ -346,7 +346,7 @@ header, .main-section {
 
 .kpi {
     text-align: center;
-    font-family: 'Bobby Jones', sans-serif;
+    font-family: 'Bobby Jones';
     width: 190px;
     height: 190px;
     border-radius: 50%;
@@ -446,7 +446,7 @@ footer i {
 .info-transporte {
     padding: 1.5rem 2rem;
     border-radius: 12px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     font-weight: 300;
     font-size: 18px;
     margin-top: 1rem;
@@ -478,7 +478,7 @@ footer i {
 }
 
 .botao-transporte button {
-    font-family: 'Bobby Jones', Arial, sans-serif;
+    font-family: 'Bobby Jones', Arial;
     padding: 10px 20px;
     background-color: #3056d3; /* azul */
     color: #ffffff; /* branco */
@@ -522,7 +522,7 @@ footer i {
 
 .botao-transporte button,
 .botao-mapa a {
-    font-family: 'Bobby Jones', Arial, sans-serif;
+    font-family: 'Bobby Jones', Arial;
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
@@ -556,7 +556,7 @@ footer i {
 }
 
 .subtitulo-avaliacoes {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     font-size: 18px;
     color: #777;
     margin-bottom: 40px;
