@@ -1,6 +1,6 @@
 @font-face {
     font-family: Bobby Jones;
-    src: url('Bobby Jones Soft.otf') format('opentype'); /* Corrigindo o formato */
+    src: url('BobbyJonesSoft-Regular.woff2') format('woff2'); /* Corrigindo o formato */
     font-weight: normal;
     font-style: normal;
 }
