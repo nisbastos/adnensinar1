@@ -212,7 +212,6 @@ footer a:hover {
     opacity: 0.9;
 }
 .carrossel {
-    position: relative;
     width: 100%;
     justify-content: flex-end;
     max-width: 600px;
